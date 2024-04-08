@@ -10,6 +10,7 @@
 - [ ] Bambu Lab Wireless Charger Kit [012]
 - [ ] Bambu Lab Boat Model Components Kit [010]
 - [ ] Elgato Stream Deck MK.2 (15 кнопок)
+- [ ] Honeywell PTM7950 40х80 мм
 
 ## Цифровое
 
