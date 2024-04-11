@@ -11,6 +11,7 @@
 - [ ] Bambu Lab Boat Model Components Kit [010]
 - [ ] Elgato Stream Deck MK.2 (15 кнопок)
 - [ ] Honeywell PTM7950 40х80 мм
+- [ ] Miyoo Mini V3 (черный, бежевый, фиолетовый)
 
 ## Цифровое
 
