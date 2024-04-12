@@ -12,6 +12,7 @@
 - [ ] Elgato Stream Deck MK.2 (15 кнопок)
 - [ ] Honeywell PTM7950 40х80 мм
 - [ ] Miyoo Mini V3 (черный, бежевый, фиолетовый)
+- [ ] Ulanzi TC001
 
 ## Цифровое
 
