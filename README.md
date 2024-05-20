@@ -7,9 +7,9 @@
 - [ ] Pro-Ject VT-E черный
 - [ ] Pro-Ject Debut Pro S All White Edition
 - [ ] be quiet! Silent Wings 4 140mm PWM BL096 (2шт)
-- [ ] Bambu Lab Wireless Charger Kit [012]
-- [ ] Bambu Lab Boat Model Components Kit [010]
-- [ ] Elgato Stream Deck MK.2 (15 кнопок)
+- [x] Bambu Lab Wireless Charger Kit [012]
+- [x] Bambu Lab Boat Model Components Kit [010]
+- [x] Elgato Stream Deck MK.2 (15 кнопок)
 - [ ] Honeywell PTM7950 40х80 мм
 - [ ] Miyoo Mini V3 (черный, бежевый, фиолетовый)
 - [ ] Ulanzi TC001
@@ -23,7 +23,7 @@
 
 - [ ] Набор алмазных коронок Milwaukee Diamond Plus 5/6/8мм
 - [ ] Milwaukee SFD Set
-- [ ] Ножницы Knipex 950520
+- [x] Ножницы Knipex 950520
 - [ ] Прецизионный пинцет KNIPEX KN-926443
 
 ## Винил
