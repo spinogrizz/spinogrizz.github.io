@@ -3,16 +3,8 @@
 ## Штуки
 
 - [ ] Teenage Engineering EP-133 K.O. II
-- [ ] Dali SUB E-9 F White
 - [ ] Pro-Ject VT-E черный
 - [ ] Pro-Ject Debut Pro S All White Edition
-- [ ] be quiet! Silent Wings 4 140mm PWM BL096 (2шт)
-- [x] Bambu Lab Wireless Charger Kit [012]
-- [x] Bambu Lab Boat Model Components Kit [010]
-- [x] Elgato Stream Deck MK.2 (15 кнопок)
-- [ ] Honeywell PTM7950 40х80 мм
-- [ ] Miyoo Mini V3 (черный, бежевый, фиолетовый)
-- [ ] Ulanzi TC001
 
 ## Цифровое
 
@@ -23,8 +15,6 @@
 
 - [ ] Набор алмазных коронок Milwaukee Diamond Plus 5/6/8мм
 - [ ] Milwaukee SFD Set
-- [x] Ножницы Knipex 950520
-- [ ] Прецизионный пинцет KNIPEX KN-926443
 
 ## Винил
 
