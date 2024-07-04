@@ -5,6 +5,7 @@
 - [ ] Teenage Engineering EP-133 K.O. II
 - [ ] Pro-Ject VT-E черный
 - [ ] Pro-Ject Debut Pro S All White Edition
+- [ ] Onyx Boox Kant 2
 
 ## Цифровое
 
