@@ -6,6 +6,8 @@
 - [ ] Pro-Ject VT-E черный
 - [ ] Pro-Ject Debut Pro S All White Edition
 - [ ] Onyx Boox Kant 2
+- [ ] Электрогитара Enya Nova Go Electric Dragon
+- [ ] Analogue Pocket Черный
 
 ## Цифровое
 
@@ -19,6 +21,7 @@
 
 ## Винил
 
+- [ ] Michael Bublé - Christmas
 - [ ] Jay-Jay Johanson. Kings Cross
 - [ ] Edward Sharpie and Magnetic Zeroes. Up From Below
 - [ ] The Fratellis. Costello Music
