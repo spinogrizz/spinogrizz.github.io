@@ -7,7 +7,7 @@
 - [ ] Pro-Ject Debut Pro S All White Edition _(110 000 ₽)_
 - [ ] Электрогитара Enya Nova Go Electric Dragon _(55 000 ₽)_
 - [ ] Analogue Pocket Черный _(30 000 ₽)_
-- [ ] Magic The Gathering: FOUNDATIONS Beginner Box _(~3 500 ₽)_
+- [x] Magic The Gathering: FOUNDATIONS Beginner Box _(~3 500 ₽)_
 
 ## Цифровое
 
