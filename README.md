@@ -9,6 +9,7 @@
 - [ ] Analogue Pocket Черный _(30 000 ₽)_
 - [x] Magic The Gathering: FOUNDATIONS Beginner Box _(~3 500 ₽)_
 - [ ] Модем ZTE U10s Pro розовый _(4 000 ₽)_
+- [ ] Жесткий диск 8Tb WD Purple (WD84PURZ) _(23 000 ₽)_
 
 ## Цифровое
 
