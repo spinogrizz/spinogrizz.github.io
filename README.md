@@ -8,6 +8,7 @@
 - [ ] Электрогитара Enya Nova Go Electric Dragon _(55 000 ₽)_
 - [ ] Analogue Pocket Черный _(30 000 ₽)_
 - [x] Magic The Gathering: FOUNDATIONS Beginner Box _(~3 500 ₽)_
+- [ ] Модем ZTE U10s Pro розовый _(4 000 ₽)_
 
 ## Цифровое
 
