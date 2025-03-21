@@ -7,6 +7,10 @@
 - [ ] Pro-Ject Debut Pro S All White Edition _(110 000 ₽)_
 - [ ] Analogue Pocket Черный _(30 000 ₽)_
 - [ ] Ubiquiti Swiss Army Knife _(11 000 ₽)_
+- [ ] Ультразвуковая мойка Kitfort КТ-6293 _(7500 ₽)_
+- [ ] 8bitdo SN30 Pro (Xbox Edition, черный) _(4500 ₽)_
+- [ ] Кабельный тестер Noyafa NF-8508 _(9500 ₽)_
+- [ ] Шлюз SMLIGHT SLZB-06P7 _(4500 ₽)_
 
 ## Цифровое
 
