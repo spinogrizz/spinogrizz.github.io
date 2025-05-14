@@ -7,6 +7,7 @@
 - [ ] Ubiquiti Dream Machine Special Edition _(65 000 ₽)_
 - [ ] Reolink Duo 2 PoE _(18 000 ₽)_
 - [ ] Reolink Doorbell WiFi _(13 000 ₽)_
+- [ ] Mac Mini M4 16GB 256GB _(40 000 ₽)_
 - [ ] Ультразвуковая мойка Kitfort КТ-6293 _(7 500 ₽)_
 - [ ] 8bitdo SN30 Pro (Xbox Edition, черный) _(4 500 ₽)_
 - [ ] Кабельный тестер Noyafa NF-8508 _(9 500 ₽)_
