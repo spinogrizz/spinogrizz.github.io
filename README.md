@@ -11,7 +11,7 @@
 - [ ] Ультразвуковая мойка Kitfort КТ-6293 _(7 500 ₽)_
 - [ ] 8bitdo SN30 Pro (Xbox Edition, черный) _(4 500 ₽)_
 - [ ] Кабельный тестер Noyafa NF-8508 _(9 500 ₽)_
-- [ ] Лабораторный источник питания FNIRSI DPS-150 _(5 000 ₽)_
+- [x] Лабораторный источник питания FNIRSI DPS-150 _(5 000 ₽)_
 - [ ] Умный выключатель/автомат Zigbee TONGOU 63A 2 шт _(3 000 ₽)_
 
 ## Цифровое
@@ -22,14 +22,14 @@
 
 - [ ] Milwaukee SFD Set _(13 000 ₽)_
 - [ ] Мини-отвертка VESSEL TD-6700W-23 _(~1 000 ₽)_
-- [ ] Электрическая отвертка VESSEL 220USB-P1 (Type-C) _(~6 000 ₽)_
+- [x] Электрическая отвертка VESSEL 220USB-P1 (Type-C) _(~6 000 ₽)_
 - [ ] Клещи электромонтажные Knipex KN-1386200ME _(~6 000 ₽)_
 - [ ] Нож электрика Toughbuilt TB-H4-12-IM _(2 000 ₽)_
 - [ ] Рулетка Reekon Tomahawk T1 Метрическая _(40 000 ₽)_ 
 
 ## Винил
 
-- [ ] Michael Bublé - Christmas
+- [x] Michael Bublé - Christmas
 - [ ] Jay-Jay Johanson. Kings Cross
 - [ ] Edward Sharpie and Magnetic Zeroes. Up From Below
 - [ ] The Fratellis. Costello Music
