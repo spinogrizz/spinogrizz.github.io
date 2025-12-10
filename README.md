@@ -3,7 +3,7 @@
 ## Штуки
 
 - [ ] Ubiquiti UniFi Express _(15 000 ₽)_
-- [ ] Ubiquiti Dream Machine Special Edition _(65 000 ₽)_
+- [ ] Ubiquiti U7 Pro Outdoor _(20 000 ₽)_
 - [ ] Кармашек для AIBI с зарядкой _(2 500 ₽)_
 - [ ] Запасные сопла и носки на Bambu Lab A1/H2 0.4мм _(2 500 ₽)_
 - [ ] Пластик Bambu Lab PLA Lite/Basic, любой _(2 000 ₽)_
