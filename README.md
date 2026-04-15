@@ -7,6 +7,7 @@
 - [ ] Пластик Bambu Lab PLA Lite/Basic, любой _(2 000 ₽)_
 - [ ] Клавиатура Gooseboard _(5 500 ₽)_
 - [ ] Геймпад Sony Dualsense Astro Bot Limited Edition _(8 000 ₽)_
+- [ ] Ubikey Security Key. Type C вариант _(4 000₽)_
 - [ ] Ubiquiti U6 Mesh _(18 000 ₽)_
 - [ ] Ubiquiti G6 Bullet _(26 000 ₽)_
 - [ ] Ubiquiti G6 180 _(45 000 ₽)_
