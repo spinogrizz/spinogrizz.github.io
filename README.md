@@ -9,7 +9,6 @@
 - [ ] Геймпад Sony Dualsense Astro Bot Limited Edition _(8 000 ₽)_
 - [ ] Ubikey 5C NFC _(5 500₽)_
 - [ ] Ubiquiti U6 Mesh _(18 000 ₽)_
-- [ ] Ubiquiti G6 Bullet _(26 000 ₽)_
 - [ ] Ubiquiti G6 180 _(45 000 ₽)_
 - [ ] Ubiquiti G6 PTZ _(55 000 ₽)_
 
