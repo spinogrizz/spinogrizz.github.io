@@ -6,10 +6,8 @@
 - [ ] Запасные сопла и носки на Bambu Lab A1/H2 0.4мм _(2 500 ₽)_
 - [ ] Пластик Bambu Lab PLA Lite/Basic, любой _(2 000 ₽)_
 - [ ] Клавиатура Gooseboard _(5 500 ₽)_
-- [ ] Геймпад Sony Dualsense Astro Bot Limited Edition _(8 000 ₽)_
 - [ ] Ubikey 5C NFC _(5 500₽)_
 - [ ] Ubiquiti U6 Mesh _(18 000 ₽)_
-- [ ] Ubiquiti G6 180 _(45 000 ₽)_
 - [ ] Ubiquiti G6 PTZ _(55 000 ₽)_
 
 ## Цифровое
