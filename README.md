@@ -2,12 +2,13 @@
 
 ## Штуки
 
-- [ ] Кармашек для AIBI с зарядкой _(2 500 ₽)_
 - [ ] Запасные сопла и носки на Bambu Lab A1/H2 0.4мм _(2 500 ₽)_
 - [ ] Пластик Bambu Lab PLA Lite/Basic, любой _(2 000 ₽)_
-- [ ] Ubikey 5C NFC _(5 500₽)_
-- [ ] Ubiquiti U6 Mesh _(18 000 ₽)_
-- [ ] Ubiquiti G6 PTZ _(55 000 ₽)_
+- [ ] COMMO Core Plus 67W с двумя встр. кабелями _(4 500 ₽)_
+- [ ] UniFi U6 Mesh _(18 000 ₽)_
+- [ ] UniFi G6 PTZ _(55 000 ₽)_
+- [ ] UniFi UTR LR (Long Range)  _(18 000 ₽)_
+- [ ] UniFi 5G Backup (Европейский)  _(19 000 ₽)_
 
 ## Цифровое
 
@@ -18,18 +19,19 @@
 ## Инструменты
 
 - [ ] Рулетка Reekon Tomahawk T1 Метрическая _(40 000 ₽)_ 
-- [ ] Клещи электромонтажные Knipex KN-1386200ME _(~6 000 ₽)_
-- [ ] KNIPEX 12 62 180 Инструмент для снятия изоляции _(4 000 ₽)_
-- [ ] JOKARI 6-16 Инструмент для снятия изоляции _(7 000 ₽)_
 - [ ] Аккумуляторные строительные ножницы Ryobi RCT4-120G _(7 500 ₽)_
+
+## Велосипед
+- [ ] Велокомпьютер Magene C706 Global _(25 000 ₽)_
+- [ ] Шлем Specialized Align II MIPS белый _(4 500 ₽)_
+- [ ] LEGO 11380 Icons _(11 000 ₽)_
 
 ## Винил
 
 - [ ] bbno$. bbno$
+- [ ] TOMORA. Come Closer.
 - [ ] Jay-Jay Johanson. Kings Cross
 - [ ] Edward Sharpie and Magnetic Zeroes. Up From Below
-- [ ] Edward Sharpie and Magnetic Zeroes. Here
-- [ ] The Fratellis. Costello Music
 - [ ] Matt Nathanson. Beneath these Fireworks
 - [ ] Capital Cities. In a Tidal Wave of Mystery 
 
