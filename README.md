@@ -7,8 +7,9 @@
 - [ ] COMMO Core Plus 67W с двумя встр. кабелями _(4 500 ₽)_
 - [ ] UniFi U6 Mesh _(18 000 ₽)_
 - [ ] UniFi G6 PTZ _(55 000 ₽)_
-- [ ] UniFi UTR LR (Long Range)  _(18 000 ₽)_
-- [ ] UniFi 5G Backup (Европейский)  _(19 000 ₽)_
+- [ ] UniFi UTR LR (Long Range) _(18 000 ₽)_
+- [ ] UniFi 5G Backup (Европейский) _(19 000 ₽)_
+- [ ] Телескоп Seestar S50 Pro Global _(85 000 ₽)_
 
 ## Цифровое
 
